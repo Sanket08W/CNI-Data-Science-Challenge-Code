@@ -1,0 +1,7 @@
+1) Predict.py
+which contain our solution in given template.Where i store intermediate results also as csv file for not computing same thing again. as we have training data as fixed file that BMTC.paraquet.
+
+2)BMTC_time.ipynb (NOT USEFUL FOR EVALUTION)
+Where our all experimentation is available. We have tried multiplt Regression model for this task eg. Linear Regression, Support Vector Regressor, DecisionTree Regressor, Random Forest, XGboost , K nearest neighbour and ensemble model of that also.
+But as data is very restructive in form of only source and destination latitude and Longitude is given in input still we have tried to do well on that data where we have used DecisionTree Regressor.
+
